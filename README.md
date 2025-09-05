@@ -20,7 +20,7 @@ Si deseas contribuir con más piezas o mejoras, ¡eres bienvenido! 🎉
 ## 📸 Vista previa
 
 
-![Vista previa](docs/Peon.png)
+![Vista previa](docs/Peon.PNG)
 
 
 
